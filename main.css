@@ -28,6 +28,9 @@ body {
 	background: #fff;
 }
 
+#header:hover {
+	cursor: default;
+}
 #header .a {
 	text-decoration: none!important;
 }
@@ -47,6 +50,7 @@ body {
 	height: 200px;
 }
 #nav {
+	font-family: Verdana, sans-serif;
 	margin-bottom: 20px;
 	float: left;
 	background: #eee;
@@ -148,3 +152,4 @@ body {
 	font-size: 80%;
 	color: #999;
 }
+
